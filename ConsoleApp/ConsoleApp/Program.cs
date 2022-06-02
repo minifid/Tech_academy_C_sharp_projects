@@ -10,21 +10,36 @@ namespace ConsoleApp
     {
         static void Main()
         {
-            bool stopLoop = false;
+            bool stopLoop1 = false;
+            bool stopLoop2 = false;
             do
             {
                 Console.WriteLine("Please type true");
                 if (Console.ReadLine() == "true")
                 {
                     Console.WriteLine("loop ends");
-                    stopLoop = true;
+                    stopLoop1 = true;
                 }
                 else
                 {
                     Console.WriteLine("you misspelled true, try again.");
                 }
             }
-            while (!stopLoop);
+            while (!stopLoop1);
+
+            while (!stopLoop2)
+            {
+                Console.WriteLine("Please type yes");
+                if (Console.ReadLine() == "yes")
+                {
+                    Console.WriteLine("loop ends");
+                    stopLoop2 = true;
+                }
+                else
+                {
+                    Console.WriteLine("you misspelled true, try again.");
+                }
+            }
             Console.Read();
 
         }
