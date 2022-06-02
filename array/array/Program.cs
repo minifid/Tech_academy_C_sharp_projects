@@ -10,12 +10,30 @@ namespace array
     {
         static void Main()
         {
-            string[] myArray = new string[] { "0", "5", "6", "4", "2", "14" };
-            Console.WriteLine("please choose which index you want to change from the below array (0-5) \n0, 5, 6, 4, 2, 14");
+            int[] numArray = new int[] { 0, 5, 6, 4, 2, 14 };
+            string[] myArray = new string[] { "George", "Fred", "Bob"};
+            Console.WriteLine("please choose which index you want to change from the below array (0-2) \nGeorge, Fred, Bob");
             int index = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Please enter the new value");
-            myArray[index] = Console.ReadLine();
-            Console.WriteLine("This is the value at index " + index + " has been changed");
+            if (index >= myArray.Length)
+            {
+                Console.WriteLine("There is no index at that location");
+            }
+            else
+            {
+                Console.WriteLine("Please enter the new value");
+                myArray[index] = Console.ReadLine();
+                Console.WriteLine("The value at index " + index + " has been changed");
+            }
+            Console.WriteLine("Select an index (0-5)");
+            int numIndex = Convert.ToInt32(Console.ReadLine());
+            if (numIndex >= numArray.Length)
+            {
+                Console.WriteLine("There is no index at that location");
+            }
+            else
+            {
+                Console.WriteLine(numArray[numIndex]);
+            }
             Console.Read();
         }
     }
