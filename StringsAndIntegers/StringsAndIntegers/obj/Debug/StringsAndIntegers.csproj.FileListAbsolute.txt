@@ -1,0 +1,7 @@
+C:\Users\natha\Documents\GitHub\Tech_academy_C_sharp_projects\StringsAndIntegers\StringsAndIntegers\bin\Debug\StringsAndIntegers.exe.config
+C:\Users\natha\Documents\GitHub\Tech_academy_C_sharp_projects\StringsAndIntegers\StringsAndIntegers\bin\Debug\StringsAndIntegers.exe
+C:\Users\natha\Documents\GitHub\Tech_academy_C_sharp_projects\StringsAndIntegers\StringsAndIntegers\bin\Debug\StringsAndIntegers.pdb
+C:\Users\natha\Documents\GitHub\Tech_academy_C_sharp_projects\StringsAndIntegers\StringsAndIntegers\obj\Debug\StringsAndIntegers.csprojAssemblyReference.cache
+C:\Users\natha\Documents\GitHub\Tech_academy_C_sharp_projects\StringsAndIntegers\StringsAndIntegers\obj\Debug\StringsAndIntegers.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\GitHub\Tech_academy_C_sharp_projects\StringsAndIntegers\StringsAndIntegers\obj\Debug\StringsAndIntegers.exe
+C:\Users\natha\Documents\GitHub\Tech_academy_C_sharp_projects\StringsAndIntegers\StringsAndIntegers\obj\Debug\StringsAndIntegers.pdb
