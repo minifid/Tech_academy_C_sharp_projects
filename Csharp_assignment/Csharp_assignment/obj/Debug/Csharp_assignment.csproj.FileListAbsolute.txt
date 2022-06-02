@@ -1,0 +1,7 @@
+C:\Users\natha\Documents\GitHub\basic_c#_programs\Csharp_assignment\Csharp_assignment\obj\Debug\Csharp_assignment.csprojAssemblyReference.cache
+C:\Users\natha\Documents\GitHub\basic_c#_programs\Csharp_assignment\Csharp_assignment\obj\Debug\Csharp_assignment.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\GitHub\basic_c#_programs\Csharp_assignment\Csharp_assignment\bin\Debug\Csharp_assignment.exe.config
+C:\Users\natha\Documents\GitHub\basic_c#_programs\Csharp_assignment\Csharp_assignment\bin\Debug\Csharp_assignment.exe
+C:\Users\natha\Documents\GitHub\basic_c#_programs\Csharp_assignment\Csharp_assignment\bin\Debug\Csharp_assignment.pdb
+C:\Users\natha\Documents\GitHub\basic_c#_programs\Csharp_assignment\Csharp_assignment\obj\Debug\Csharp_assignment.exe
+C:\Users\natha\Documents\GitHub\basic_c#_programs\Csharp_assignment\Csharp_assignment\obj\Debug\Csharp_assignment.pdb
