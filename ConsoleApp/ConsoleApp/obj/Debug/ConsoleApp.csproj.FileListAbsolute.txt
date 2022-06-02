@@ -1,0 +1,7 @@
+C:\Users\natha\Documents\GitHub\Tech_academy_C_sharp_projects\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\natha\Documents\GitHub\Tech_academy_C_sharp_projects\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\natha\Documents\GitHub\Tech_academy_C_sharp_projects\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\natha\Documents\GitHub\Tech_academy_C_sharp_projects\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\natha\Documents\GitHub\Tech_academy_C_sharp_projects\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\GitHub\Tech_academy_C_sharp_projects\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\natha\Documents\GitHub\Tech_academy_C_sharp_projects\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
