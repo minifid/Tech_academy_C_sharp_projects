@@ -22,15 +22,18 @@ namespace Branching
             Console.WriteLine("What is the package width?");
             float width = Convert.ToInt32(Console.ReadLine());
 
+            Console.WriteLine("What is the package length?");
+            float length = Convert.ToInt32(Console.ReadLine());
+
             Console.WriteLine("What is the package height?");
             float height = Convert.ToInt32(Console.ReadLine());
-            if (height + width > 50)
+            if (height + width + length > 50)
             {
                 Console.WriteLine("Package is too big to be shipped.");
                 Console.Read();
                 Environment.Exit(0);
             }
-            float total = width * height * weight / 100;
+            float total = width * height * length / 100;
             Console.WriteLine("The cost is $" + total.ToString("0.00"));
             Console.Read();
         }
