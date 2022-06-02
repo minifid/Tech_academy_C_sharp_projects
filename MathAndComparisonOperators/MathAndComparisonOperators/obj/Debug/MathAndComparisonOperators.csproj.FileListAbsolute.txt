@@ -1,0 +1,7 @@
+C:\Users\natha\Documents\GitHub\basic_c#_programs\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\MathAndComparisonOperators.exe.config
+C:\Users\natha\Documents\GitHub\basic_c#_programs\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\MathAndComparisonOperators.exe
+C:\Users\natha\Documents\GitHub\basic_c#_programs\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\MathAndComparisonOperators.pdb
+C:\Users\natha\Documents\GitHub\basic_c#_programs\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\MathAndComparisonOperators.csprojAssemblyReference.cache
+C:\Users\natha\Documents\GitHub\basic_c#_programs\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\MathAndComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\GitHub\basic_c#_programs\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\MathAndComparisonOperators.exe
+C:\Users\natha\Documents\GitHub\basic_c#_programs\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\MathAndComparisonOperators.pdb
