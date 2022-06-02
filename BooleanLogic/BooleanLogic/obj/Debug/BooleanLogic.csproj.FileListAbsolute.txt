@@ -1,0 +1,7 @@
+C:\Users\natha\Documents\GitHub\Tech_academy_C_sharp_projects\BooleanLogic\BooleanLogic\obj\Debug\BooleanLogic.csprojAssemblyReference.cache
+C:\Users\natha\Documents\GitHub\Tech_academy_C_sharp_projects\BooleanLogic\BooleanLogic\obj\Debug\BooleanLogic.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\GitHub\Tech_academy_C_sharp_projects\BooleanLogic\BooleanLogic\bin\Debug\BooleanLogic.exe.config
+C:\Users\natha\Documents\GitHub\Tech_academy_C_sharp_projects\BooleanLogic\BooleanLogic\bin\Debug\BooleanLogic.exe
+C:\Users\natha\Documents\GitHub\Tech_academy_C_sharp_projects\BooleanLogic\BooleanLogic\bin\Debug\BooleanLogic.pdb
+C:\Users\natha\Documents\GitHub\Tech_academy_C_sharp_projects\BooleanLogic\BooleanLogic\obj\Debug\BooleanLogic.exe
+C:\Users\natha\Documents\GitHub\Tech_academy_C_sharp_projects\BooleanLogic\BooleanLogic\obj\Debug\BooleanLogic.pdb
