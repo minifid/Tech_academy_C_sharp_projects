@@ -1,0 +1,7 @@
+C:\Users\natha\Documents\GitHub\Tech_academy_C_sharp_projects\array\array\bin\Debug\array.exe.config
+C:\Users\natha\Documents\GitHub\Tech_academy_C_sharp_projects\array\array\bin\Debug\array.exe
+C:\Users\natha\Documents\GitHub\Tech_academy_C_sharp_projects\array\array\bin\Debug\array.pdb
+C:\Users\natha\Documents\GitHub\Tech_academy_C_sharp_projects\array\array\obj\Debug\array.csprojAssemblyReference.cache
+C:\Users\natha\Documents\GitHub\Tech_academy_C_sharp_projects\array\array\obj\Debug\array.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\GitHub\Tech_academy_C_sharp_projects\array\array\obj\Debug\array.exe
+C:\Users\natha\Documents\GitHub\Tech_academy_C_sharp_projects\array\array\obj\Debug\array.pdb
