@@ -28,7 +28,7 @@ namespace MethodSubmission
 
             try
             {
-                int num1 = Convert.ToInt32(uInput); //QUESTION is there a way to keep variables created within try/catch blocks? so i dont have to create the same variable multiple times
+                int num1 = Convert.ToInt32(uInput); //QUESTION is there a way to keep variables created within try/catch blocks, so I don't have to create the same variable multiple times?
 
                 int num2 = Convert.ToInt32(Console.ReadLine());
                 myClass.addition(num1, num2);
