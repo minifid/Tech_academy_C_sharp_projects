@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,12 +10,9 @@ namespace MethodClassSubmission
     {
         static void Main(string[] args)
         {
-            int x = 5;
-            int y = 6;
-            //not sure if I understood the differences between step 3 and 4
-            myClass.addition(5, 6); //step 3
-            myClass.addition(x, y); //step 4
-
+            Class1.addition(5, 6);
+            Class1.addition(x: 4, y: 8);
+            Console.Read();
         }
     }
 }
