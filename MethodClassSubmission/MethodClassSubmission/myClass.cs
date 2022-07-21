@@ -12,6 +12,7 @@ namespace MethodClassSubmission
         public static void addition(int x, int y)
         {
             int sum = x + 5;
+            Console.WriteLine(sum);
             Console.WriteLine(y);
         }
     }
