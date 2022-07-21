@@ -10,8 +10,8 @@ namespace MethodClassSubmission
     {
         static void Main(string[] args)
         {
-            Class1.addition(5, 6);
-            Class1.addition(x: 4, y: 8);
+            myClass.addition(5, 6);
+            myClass.addition(x: 4, y: 8);
             Console.Read();
         }
     }
