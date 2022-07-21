@@ -1,0 +1,8 @@
+C:\Users\nfidler\source\repos\OperatorOverload\OperatorOverload\bin\Debug\OperatorOverload.exe.config
+C:\Users\nfidler\source\repos\OperatorOverload\OperatorOverload\bin\Debug\OperatorOverload.exe
+C:\Users\nfidler\source\repos\OperatorOverload\OperatorOverload\bin\Debug\OperatorOverload.pdb
+C:\Users\nfidler\source\repos\OperatorOverload\OperatorOverload\obj\Debug\OperatorOverload.csproj.AssemblyReference.cache
+C:\Users\nfidler\source\repos\OperatorOverload\OperatorOverload\obj\Debug\OperatorOverload.csproj.SuggestedBindingRedirects.cache
+C:\Users\nfidler\source\repos\OperatorOverload\OperatorOverload\obj\Debug\OperatorOverload.csproj.CoreCompileInputs.cache
+C:\Users\nfidler\source\repos\OperatorOverload\OperatorOverload\obj\Debug\OperatorOverload.exe
+C:\Users\nfidler\source\repos\OperatorOverload\OperatorOverload\obj\Debug\OperatorOverload.pdb
