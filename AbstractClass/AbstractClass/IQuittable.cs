@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace AbstractClass
 {
-    public abstract class Person
+    interface IQuittable
     {
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public abstract void SayName();
+        void Quit();
     }
 }
