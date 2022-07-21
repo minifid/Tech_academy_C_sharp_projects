@@ -1,0 +1,8 @@
+C:\Users\nfidler\source\repos\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.exe.config
+C:\Users\nfidler\source\repos\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.exe
+C:\Users\nfidler\source\repos\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.pdb
+C:\Users\nfidler\source\repos\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.csproj.AssemblyReference.cache
+C:\Users\nfidler\source\repos\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.csproj.SuggestedBindingRedirects.cache
+C:\Users\nfidler\source\repos\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\nfidler\source\repos\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.exe
+C:\Users\nfidler\source\repos\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.pdb
