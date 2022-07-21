@@ -10,9 +10,9 @@ namespace AbstractClass
     {
         static void Main(string[] args)
         {
-            Employee employee = new Employee();
+            Employee employee = new Employee() { FirstName = "Test", LastName = "Employee"};
             employee.SayName();
-            IQuittable quittable = new Employee();
+            IQuittable quittable = new Employee() { FirstName = "quittable", LastName = "Employee"};
             quittable.Quit();
             Console.Read();
         }
