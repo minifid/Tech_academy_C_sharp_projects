@@ -1,8 +1,0 @@
-C:\Users\nfidler\source\repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.AssemblyReference.cache
-C:\Users\nfidler\source\repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.SuggestedBindingRedirects.cache
-C:\Users\nfidler\source\repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
-C:\Users\nfidler\source\repos\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
-C:\Users\nfidler\source\repos\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
-C:\Users\nfidler\source\repos\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
-C:\Users\nfidler\source\repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
-C:\Users\nfidler\source\repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb
