@@ -14,7 +14,7 @@ namespace OperatorOverload
 
         public static bool operator== (Employee employee1, Employee employee2)
         {
-            if ((employee1.FirstName == employee2.FirstName) && (employee1.LastName == employee2.LastName))
+            if (employee1.Id == employee2.Id)
             {
                 return true;
             } else
@@ -24,7 +24,7 @@ namespace OperatorOverload
         }
         public static bool operator!= (Employee employee1, Employee employee2)
         {
-            if ((employee1.FirstName != employee2.FirstName) || (employee1.LastName != employee2.LastName))
+            if (employee1.Id != employee2.Id)
             {
                 return true;
             }
