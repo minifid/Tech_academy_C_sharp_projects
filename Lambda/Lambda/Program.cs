@@ -34,16 +34,26 @@ namespace Lambda
             employees.Add(employee8);
             employees.Add(employee9);
 
+            List<Employee> names = new List<Employee>();
 
-            List<string> names = new List<string>();
-            //creates a list of all employees with first name joe and print them to console
+            //creates a list of all employees with first name joe and print them to console using a foreach
             foreach (Employee employee in employees) 
             {
                 if (employee.FirstName == "Joe")
                 {
-                    names.Add(employee.Id + " " + employee.FirstName + " " + employee.LastName);
-                    Console.WriteLine((employee.Id + " " + employee.FirstName + " " + employee.LastName);
+                    names.Add(employee);
                 }
+            }
+            foreach (Employee employee in names)
+            {
+                Console.WriteLine(employee.Id + " " + employee.FirstName + " " + employee.LastName);
+            }
+
+            //creates a list of all employees with first name joe and print them to console using a lambda
+            List<Employee> step4 = employees.Where(x => x.FirstName == "Joe").ToList();
+            foreach (Employee employee in step4)
+            {
+                Console.WriteLine(employee.Id + " " + employee.FirstName + " " + employee.LastName);
             }
 
             //uses a lamba expression to create a list of all employees with id greater than 5

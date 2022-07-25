@@ -6,3 +6,11 @@ C:\Users\nfidler\source\repos\Lambda\Lambda\bin\Debug\Lambda.exe
 C:\Users\nfidler\source\repos\Lambda\Lambda\bin\Debug\Lambda.pdb
 C:\Users\nfidler\source\repos\Lambda\Lambda\obj\Debug\Lambda.exe
 C:\Users\nfidler\source\repos\Lambda\Lambda\obj\Debug\Lambda.pdb
+C:\Users\nfidler\Documents\GitHub\Tech_academy_C_sharp_projects\Lambda\Lambda\bin\Debug\Lambda.exe.config
+C:\Users\nfidler\Documents\GitHub\Tech_academy_C_sharp_projects\Lambda\Lambda\bin\Debug\Lambda.exe
+C:\Users\nfidler\Documents\GitHub\Tech_academy_C_sharp_projects\Lambda\Lambda\bin\Debug\Lambda.pdb
+C:\Users\nfidler\Documents\GitHub\Tech_academy_C_sharp_projects\Lambda\Lambda\obj\Debug\Lambda.csproj.AssemblyReference.cache
+C:\Users\nfidler\Documents\GitHub\Tech_academy_C_sharp_projects\Lambda\Lambda\obj\Debug\Lambda.csproj.SuggestedBindingRedirects.cache
+C:\Users\nfidler\Documents\GitHub\Tech_academy_C_sharp_projects\Lambda\Lambda\obj\Debug\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\nfidler\Documents\GitHub\Tech_academy_C_sharp_projects\Lambda\Lambda\obj\Debug\Lambda.exe
+C:\Users\nfidler\Documents\GitHub\Tech_academy_C_sharp_projects\Lambda\Lambda\obj\Debug\Lambda.pdb
