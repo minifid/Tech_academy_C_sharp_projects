@@ -10,6 +10,7 @@ namespace Lambda
     {
         static void Main(string[] args)
         {
+            //creates the employees
             Employee employee1 = new Employee() { Id = 1, FirstName = "Joe", LastName = "smith" };
             Employee employee2 = new Employee() { Id = 2, FirstName = "Joe", LastName = "smith" };
             Employee employee3 = new Employee() { Id = 3, FirstName = "Jack", LastName = "smith" };
@@ -20,6 +21,7 @@ namespace Lambda
             Employee employee8 = new Employee() { Id = 8, FirstName = "Mike", LastName = "smith" };
             Employee employee9 = new Employee() { Id = 9, FirstName = "Zach", LastName = "smith" };
 
+            //creates the list of employees
             List<Employee> employees = new List<Employee>();
 
             employees.Add(employee1);
@@ -32,27 +34,27 @@ namespace Lambda
             employees.Add(employee8);
             employees.Add(employee9);
 
+
             List<string> names = new List<string>();
-            string fullname;
+            //creates a list of all employees with first name joe and print them to console
             foreach (Employee employee in employees) 
             {
                 if (employee.FirstName == "Joe")
                 {
-                    fullname = employee.FirstName + " " + employee.LastName + " " + employee.Id;
-                    names.Add(fullname);
-                    Console.WriteLine(fullname);
+                    names.Add(employee.Id + " " + employee.FirstName + " " + employee.LastName);
+                    Console.WriteLine((employee.Id + " " + employee.FirstName + " " + employee.LastName);
                 }
             }
 
+            //uses a lamba expression to create a list of all employees with id greater than 5
             List<Employee> newList = employees.Where(x => x.Id > 5).ToList();
 
+            //prints the list creates
             foreach (Employee employee in newList)
             {
                 Console.WriteLine(employee.Id + " " + employee.FirstName + " " + employee.LastName);
             }
-
-
-
+            
             Console.Read();
         }
     }
