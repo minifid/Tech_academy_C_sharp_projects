@@ -12,10 +12,9 @@ namespace Blackjack
         {
             Deck deck = new Deck();
             deck.Shuffle();
-
             foreach (Card card in deck.Cards)
             {
-                Console.WriteLine(card.Face + " of " + card.Suit);
+                Console.WriteLine(card.face + " of " + card.suit);
             }
             Console.WriteLine(deck.Cards.Count);
             Console.Read();
