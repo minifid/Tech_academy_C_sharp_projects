@@ -1,0 +1,8 @@
+C:\Users\nfidler\source\repos\MyDateTimeAssignment\MyDateTimeAssignment\bin\Debug\MyDateTimeAssignment.exe.config
+C:\Users\nfidler\source\repos\MyDateTimeAssignment\MyDateTimeAssignment\bin\Debug\MyDateTimeAssignment.exe
+C:\Users\nfidler\source\repos\MyDateTimeAssignment\MyDateTimeAssignment\bin\Debug\MyDateTimeAssignment.pdb
+C:\Users\nfidler\source\repos\MyDateTimeAssignment\MyDateTimeAssignment\obj\Debug\MyDateTimeAssignment.csproj.AssemblyReference.cache
+C:\Users\nfidler\source\repos\MyDateTimeAssignment\MyDateTimeAssignment\obj\Debug\MyDateTimeAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\nfidler\source\repos\MyDateTimeAssignment\MyDateTimeAssignment\obj\Debug\MyDateTimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\nfidler\source\repos\MyDateTimeAssignment\MyDateTimeAssignment\obj\Debug\MyDateTimeAssignment.exe
+C:\Users\nfidler\source\repos\MyDateTimeAssignment\MyDateTimeAssignment\obj\Debug\MyDateTimeAssignment.pdb
