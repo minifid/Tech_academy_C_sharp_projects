@@ -21,8 +21,12 @@ namespace Blackjack
             Dealer.Hand = new List<Card>();
             Dealer.Stay = false;
             Dealer.Deck = new Deck();
+            Dealer.Deck.Shuffle();
+
             Console.WriteLine("Place your bet!");
 
+            //asks each player there bet and saves it as the Bet property
+            //will error out if non int is entered by user
             foreach (Player player in Players)
             {
                 int bet = Convert.ToInt32(Console.ReadLine());
@@ -33,6 +37,8 @@ namespace Blackjack
                 }
                 Bets[player] = bet;
             }
+
+            //deals one card to each player then a second card does dealer after
             for (int i = 0; i < 2; i++)
             {
                 Console.WriteLine("Dealing...");
@@ -46,7 +52,7 @@ namespace Blackjack
                         if (blackJack)
                         {
                             Console.WriteLine("Blackjack! {0} wins {1}", player.Name, Bets[player]);
-                            player.Balance = +Convert.ToInt32((Bets[player] * 1.5) + Bets[player]);
+                            player.Balance += Convert.ToInt32((Bets[player] * 1.5) + Bets[player]);
                             return;
                         }
                     }
@@ -63,6 +69,7 @@ namespace Blackjack
                         {
                             Dealer.Balance += entry.Value;
                         }
+                        return;
                     }
                 }
             }
@@ -96,10 +103,12 @@ namespace Blackjack
                         if (answer == "yes" || answer == "y" || answer == "yeah" || answer == "ya")
                         {
                             player.isActivelyPlaying = true;
+                            return;
                         }
                         else
                         {
                             player.isActivelyPlaying = false;
+                            return;
                         }
                     }
                 }
@@ -152,10 +161,12 @@ namespace Blackjack
                 if (answer == "yes" || answer == "y" || answer == "ya" || answer == "yeah")
                 {
                     player.isActivelyPlaying = true;
+                    return;
                 }
                 else
                 {
                     player.isActivelyPlaying = false;
+                    return;
                 }
             }
         }

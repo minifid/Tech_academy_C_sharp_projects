@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace Blackjack
 {
@@ -10,7 +11,8 @@ namespace Blackjack
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcom to the Grand Hotel and Casino. Let's start by telling me your name.");
+            DateTime dateTime = new DateTime(1995, 5, 23, 8, 32, 45);
+            Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
             string playerName = Console.ReadLine();
             Console.WriteLine("And how much money did you bring today?");
             int bank = Convert.ToInt32(Console.ReadLine());

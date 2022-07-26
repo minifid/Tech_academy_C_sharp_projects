@@ -17,6 +17,7 @@ namespace Blackjack
         public abstract void Play();
         public virtual void ListPlayers()
         {
+            //creates a list of all the players (right now the game only has one player)
             foreach (Player Player in Players)
             {
                 Console.WriteLine(Player.Name);

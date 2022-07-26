@@ -9,6 +9,7 @@ namespace Blackjack
 {
     public class BlackJackRules
     {
+        //sets the value for each of the cards for blackjack
         private static Dictionary<Face, int> _cardValues = new Dictionary<Face, int>()
         {
             [Face.Two] = 2,
@@ -23,16 +24,18 @@ namespace Blackjack
             [Face.Jack] = 10,
             [Face.Queen] = 10,
             [Face.King] = 10,
-            [Face.Ace] = 1,
+            [Face.Ace] = 1//sets ace as its lower value handling for value of 11 is done in GetAllPossibleHandValues()
         };
         private static int[] GetAllPossibleHandValues(List<Card> Hand)
         {
-            int aceCount = Hand.Count(x => x.face == Face.Ace);
-            int[] result = new int[aceCount];
-            int value = Hand.Sum(x => _cardValues[x.face]);
+            //creates a list of all possible totals the hand can have
+            int aceCount = Hand.Count(x => x.face == Face.Ace);//gets number of aces in hand
+            int[] result = new int[aceCount + 1];
+            int value = Hand.Sum(x => _cardValues[x.face]);//creates the value of the hand using the value of 1 for all aces
             result[0] = value;
+            //if there are any aces this will go through and create another value inside results for each possible combination
             if (result.Length == 1) return result;
-            for (int i = 0; i < result.Length; i++)
+            for (int i = 0; i < result.Length; i++)//i equals the number of aces that equal 11 in the hand (adds 10 per ace) starts with only 1 ace equaling 11 then 2 aces then 3...
             {
                 value += (i * 10);
                 result[i] = value;
@@ -46,7 +49,7 @@ namespace Blackjack
         {
             int[] possibleValues = GetAllPossibleHandValues(Hand)
 ;
-            int value = possibleValues.Max();
+            int value = possibleValues.Where(x => x<22).Max();
             if (value == 21) return true;
             else return false;
         }
