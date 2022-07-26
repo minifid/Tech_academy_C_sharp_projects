@@ -13,3 +13,11 @@ C:\Users\nfidler\Desktop\Nathans_School\Blackjack\Blackjack\obj\Debug\Blackjack.
 C:\Users\nfidler\Desktop\Nathans_School\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
 C:\Users\nfidler\Desktop\Nathans_School\Blackjack\Blackjack\obj\Debug\Blackjack.exe
 C:\Users\nfidler\Desktop\Nathans_School\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
+C:\Users\nfidler\Documents\GitHub\Tech_academy_C_sharp_projects\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.AssemblyReference.cache
+C:\Users\nfidler\Documents\GitHub\Tech_academy_C_sharp_projects\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.SuggestedBindingRedirects.cache
+C:\Users\nfidler\Documents\GitHub\Tech_academy_C_sharp_projects\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\nfidler\Documents\GitHub\Tech_academy_C_sharp_projects\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\nfidler\Documents\GitHub\Tech_academy_C_sharp_projects\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
+C:\Users\nfidler\Documents\GitHub\Tech_academy_C_sharp_projects\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\nfidler\Documents\GitHub\Tech_academy_C_sharp_projects\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\nfidler\Documents\GitHub\Tech_academy_C_sharp_projects\Blackjack\Blackjack\bin\Debug\Blackjack.pdb

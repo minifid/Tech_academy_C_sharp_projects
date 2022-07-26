@@ -6,10 +6,15 @@ using System.Threading.Tasks;
 
 namespace Blackjack
 {
-    public class Card
+    public struct Card
     {
-        public Suit suit { get; set;}
+        public Suit suit { get; set; }
         public Face face { get; set; }
+
+        public override string ToString()
+        {
+            return String.Format("{0} of {1}", face, suit);
+        }
         public enum Suit
         {
             Clubs,
