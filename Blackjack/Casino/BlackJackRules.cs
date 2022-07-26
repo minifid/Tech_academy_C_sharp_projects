@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using static Blackjack.Card;
+using static Casino.Card;
 
-namespace Blackjack
+namespace Casino.BlackJack
 {
     public class BlackJackRules
     {

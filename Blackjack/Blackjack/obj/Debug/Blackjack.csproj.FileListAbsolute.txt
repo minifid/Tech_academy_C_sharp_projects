@@ -21,3 +21,6 @@ C:\Users\nfidler\Documents\GitHub\Tech_academy_C_sharp_projects\Blackjack\Blackj
 C:\Users\nfidler\Documents\GitHub\Tech_academy_C_sharp_projects\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
 C:\Users\nfidler\Documents\GitHub\Tech_academy_C_sharp_projects\Blackjack\Blackjack\bin\Debug\Blackjack.exe
 C:\Users\nfidler\Documents\GitHub\Tech_academy_C_sharp_projects\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\nfidler\Documents\GitHub\Tech_academy_C_sharp_projects\Blackjack\Blackjack\bin\Debug\Casino.dll
+C:\Users\nfidler\Documents\GitHub\Tech_academy_C_sharp_projects\Blackjack\Blackjack\bin\Debug\Casino.pdb
+C:\Users\nfidler\Documents\GitHub\Tech_academy_C_sharp_projects\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.CopyComplete
