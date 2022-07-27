@@ -23,13 +23,24 @@ namespace Casino.BlackJack
             Dealer.Deck = new Deck();
             Dealer.Deck.Shuffle();
 
-            Console.WriteLine("Place your bet!");
+            Console.WriteLine("Place your bet");
 
             //asks each player there bet and saves it as the Bet property
             //will error out if non int is entered by user
             foreach (Player player in Players)
             {
-                int bet = Convert.ToInt32(Console.ReadLine());
+                bool validAnswer = false;
+                int bet = 0;
+                
+                while (!validAnswer)
+                {
+                    validAnswer = int.TryParse(Console.ReadLine(), out bet);
+                    if (!validAnswer) Console.WriteLine("please enter digits only no decimals");
+                }
+                if (bet < 0)
+                {
+                    throw new FraudException();
+                }
                 bool successfullyBet = player.Bet(bet);
                 if (!successfullyBet)
                 {
