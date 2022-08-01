@@ -1,0 +1,13 @@
+C:\Users\nfidler\source\repos\FinalChallenge\FinalChallenge\bin\Debug\FinalChallenge.exe.config
+C:\Users\nfidler\source\repos\FinalChallenge\FinalChallenge\bin\Debug\FinalChallenge.exe
+C:\Users\nfidler\source\repos\FinalChallenge\FinalChallenge\bin\Debug\FinalChallenge.pdb
+C:\Users\nfidler\source\repos\FinalChallenge\FinalChallenge\bin\Debug\EntityFramework.dll
+C:\Users\nfidler\source\repos\FinalChallenge\FinalChallenge\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nfidler\source\repos\FinalChallenge\FinalChallenge\bin\Debug\EntityFramework.xml
+C:\Users\nfidler\source\repos\FinalChallenge\FinalChallenge\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nfidler\source\repos\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.csproj.AssemblyReference.cache
+C:\Users\nfidler\source\repos\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.csproj.SuggestedBindingRedirects.cache
+C:\Users\nfidler\source\repos\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.csproj.CoreCompileInputs.cache
+C:\Users\nfidler\source\repos\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.csproj.CopyComplete
+C:\Users\nfidler\source\repos\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.exe
+C:\Users\nfidler\source\repos\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.pdb
