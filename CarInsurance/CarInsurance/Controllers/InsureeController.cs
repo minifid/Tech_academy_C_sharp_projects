@@ -105,8 +105,8 @@ namespace CarInsurance.Controllers
             double duiUpCharge = 0;
             if (hasDUI)
             {
-                duiUpCharge = quote * .25;
                 //duiUpCharge = quote * .25;
+                quote = quote * 1.25;
                 
             }
 
@@ -115,8 +115,8 @@ namespace CarInsurance.Controllers
             double coverageUpCharge = 0;
             if (isFullCoverage)
             {
-                coverageUpCharge = quote * .5;
-                //quote = quote * 1.5;
+                //coverageUpCharge = quote * .5;
+                quote = quote * 1.5;
             }
             quote += coverageUpCharge + duiUpCharge;
 
